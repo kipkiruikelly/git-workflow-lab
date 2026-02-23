@@ -1,1 +1,9 @@
 # git-workflow-lab
+## Contributors
+Margan Kariuki
+Gerald Wamugunda
+Brian Githaiga
+Mark Kivuva
+Abuga Ndemo
+Linus Wangeci
+Esther Nyingi
