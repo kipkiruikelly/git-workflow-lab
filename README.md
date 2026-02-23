@@ -1,6 +1,6 @@
 # git-workflow-lab
 ## Contributors
-Margan Kariuki
+Morgan Kariuki
 Gerald Wamugunda
 Brian Githaiga
 Mark Kivuva
