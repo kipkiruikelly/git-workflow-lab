@@ -2,7 +2,7 @@
 ## Contributors
 Morgan Kariuki
 Gerald Wamugunda
-Brian Githaiga
+Brian Githaiga K.
 Mark Kivuva
 Abuga Ndemo
 Linus Wangeci
